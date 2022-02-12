@@ -1,0 +1,37 @@
+{
+    "plots": [
+        {
+            "id": 1,
+            "TitleDeed" : "โฉนด/น.ส.4จ เลขที่ 1530",
+            "Address" : "หมู่ที่ 1 ตำบลหนองกร่าง อำเภอบ่อหลอย จังหวัดกาญจนบุรี",
+            "Category" : "พืชผัก",
+            "type" : "กระเทียมใบ",
+            "PlantingDay" : "10-01-2562",
+            "ExpectedHarvestDate" : "25-12-2562",
+            "PlantedArea" : 1,
+            "ProduceExpected" : 450
+        },
+        {
+            "id": 2,
+            "TitleDeed" : "โฉนด/น.ส.4จ เลขที่ 1234",
+            "Address" : "หมู่ที่ 1 ตำบลหนองกร่าง อำเภอบ่อหลอย จังหวัดกาญจนบุรี",
+            "Category" : "พืชผัก",
+            "type" : "กระเทียมใบ",
+            "PlantingDay" : "10-01-2562",
+            "ExpectedHarvestDate" : "25-12-2562",
+            "PlantedArea" : 1,
+            "ProduceExpected" : 450
+        },
+        {
+            "id": 3,
+            "TitleDeed" : "โฉนด/น.ส.4จ เลขที่ 1234",
+            "Address" : "หมู่ที่ 1 ตำบลหนองกร่าง อำเภอบ่อหลอย จังหวัดกาญจนบุรี",
+            "Category" : "พืชผัก",
+            "type" : "กระเทียมใบ",
+            "PlantingDay" : "10-01-2562",
+            "ExpectedHarvestDate" : "25-12-2562",
+            "PlantedArea" : 1,
+            "ProduceExpected" : 450
+        }
+    ]
+}
