@@ -22,6 +22,6 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-.firebase.json
-.firebaserc
-.firebase
+# .firebase.json
+# .firebaserc
+# .firebase
